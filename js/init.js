@@ -8,7 +8,7 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-      apiKey: "AIzaSyCVo4dNXg1GYwdVT6LWm7og2Jnaw1Yq1bg",
+   apiKey: "AIzaSyCVo4dNXg1GYwdVT6LWm7og2Jnaw1Yq1bg",
     authDomain: "alumno41ecl.firebaseapp.com",
     projectId: "alumno41ecl",
     storageBucket: "alumno41ecl.appspot.com",
